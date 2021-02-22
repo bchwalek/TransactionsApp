@@ -32,12 +32,12 @@ Password: **1234**
 _Sekcja Body_
 Typ: form_data
 
-Key - Przykładowe wartości do podania (Value)
-customerID: 1, lub 1,3,5 (wyszukj "1" i "3" i "5) lub all (wszystkie). Puste pole powoduje wyszukanie wszystkich.
-accountType: 1, lub 1,3,5 (wyszukj "1" i "3" i "5) lub all (wszystkie). Puste pole powoduje wyszukanie wszystkich.
+Key - Przykładowe wartości do podania (Value):
+- customerID: 1, lub 1,3,5 (wyszukj "1" i "3" i "5) lub all (wszystkie). Puste pole powoduje wyszukanie wszystkich.
+- accountType: 1, lub 1,3,5 (wyszukj "1" i "3" i "5) lub all (wszystkie). Puste pole powoduje wyszukanie wszystkich.
 
 
-Testy jednostkowe w InrlliJ Idea.
+Testy jednostkowe w InelliJ Idea.
 
 
 
